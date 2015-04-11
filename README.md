@@ -1,4 +1,4 @@
-# technologie_intermetowe
+# technologie_internetowe
 //Swięta Wielkanocne
 
 #include <stdio.h>
@@ -7,5 +7,6 @@
 
 int main ()
 {
-//deklaracja zmiennych
-int rok=0, a, b, c, d, e, f, g, h, i, k,
+   //deklaracja zmiennych
+   int rok=0, a, b, c, d, e, f, g, h, i, k;
+}
